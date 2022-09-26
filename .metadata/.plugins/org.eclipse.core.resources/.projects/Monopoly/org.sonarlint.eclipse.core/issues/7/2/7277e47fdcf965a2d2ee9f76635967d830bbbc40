@@ -1,0 +1,9 @@
+
+x
+java:S1192"GDefine a constant instead of duplicating this literal "Blue 1" 3 times.(é–ÊåüÿÿÿÿRCRITICALZ
+CODE_SMELL
+c
+java:S1161	":Add the "@Override" annotation above this method signature(™²ü˜RMAJORZ
+CODE_SMELL
+R
+java:S5960"+Remove this assertion from production code.(î©äÌüÿÿÿÿRMAJORZBUG

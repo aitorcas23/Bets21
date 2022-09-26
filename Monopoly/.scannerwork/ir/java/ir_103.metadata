@@ -1,0 +1,6 @@
+edu.ncsu.monopoly.Player#getMonopolies()[Ljava/lang/String;
+java.util.ArrayList#<init>()V
+java.util.ArrayList#instance-init#
+java.lang.String#equals(Ljava/lang/Object;)Z
+java.lang.Integer#intValue()I
+edu.ncsu.monopoly.GameMaster#instance()Ledu/ncsu/monopoly/GameMaster;

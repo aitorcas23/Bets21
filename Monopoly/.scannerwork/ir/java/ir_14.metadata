@@ -1,0 +1,2 @@
+edu.ncsu.monopoly.GameBoard#queryCellIndex(Ljava/lang/String;)I
+java.lang.String#equals(Ljava/lang/Object;)Z

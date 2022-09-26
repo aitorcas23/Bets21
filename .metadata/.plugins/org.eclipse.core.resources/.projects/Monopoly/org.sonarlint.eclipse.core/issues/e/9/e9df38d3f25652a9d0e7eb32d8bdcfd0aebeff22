@@ -1,0 +1,28 @@
+
+V
+java:S1604a"(Make this anonymous inner class a lambda(³ÕêşÿÿÿÿRMAJORZ
+CODE_SMELL
+V
+java:S1604g"(Make this anonymous inner class a lambda(é÷òÔøÿÿÿÿRMAJORZ
+CODE_SMELL
+V
+java:S1604m"(Make this anonymous inner class a lambda(€Ï†øÿÿÿÿRMAJORZ
+CODE_SMELL
+V
+java:S1604s"(Make this anonymous inner class a lambda(ëœÜüÿÿÿÿRMAJORZ
+CODE_SMELL
+V
+java:S1604y"(Make this anonymous inner class a lambda(İ¬Ù¾üÿÿÿÿRMAJORZ
+CODE_SMELL
+V
+java:S1604"(Make this anonymous inner class a lambda(‡†Ö™úÿÿÿÿRMAJORZ
+CODE_SMELL
+W
+java:S1604ˆ"(Make this anonymous inner class a lambda(»ûøşÿÿÿÿRMAJORZ
+CODE_SMELL
+Y
+java:S1948""(Make "player" transient or serializable.(Ç¹Ù±úÿÿÿÿRCRITICALZ
+CODE_SMELL
+
+java:S1149’"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(åûÒ¸ûÿÿÿÿRMAJORZ
+CODE_SMELL

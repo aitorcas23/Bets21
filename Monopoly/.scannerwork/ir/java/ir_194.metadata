@@ -1,0 +1,2 @@
+edu.ncsu.monopoly.gui.MainWindow#setGetOutOfJailEnabled(Z)V
+edu.ncsu.monopoly.GameMaster#instance()Ledu/ncsu/monopoly/GameMaster;

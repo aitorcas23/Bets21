@@ -1,0 +1,46 @@
+
+]
+java:S3740"/Provide the parametrized type for this generic.(°ôç´üÿÿÿÿRMAJORZ
+CODE_SMELL
+]
+java:S3740"/Provide the parametrized type for this generic.(°ôç´üÿÿÿÿRMAJORZ
+CODE_SMELL
+W
+java:S3740"/Provide the parametrized type for this generic.(»ƒ®9RMAJORZ
+CODE_SMELL
+X
+java:S3740 "/Provide the parametrized type for this generic.(ÛßÞåRMAJORZ
+CODE_SMELL
+X
+java:S3740^"/Provide the parametrized type for this generic.(“ü½»RMAJORZ
+CODE_SMELL
+X
+java:S3740_"/Provide the parametrized type for this generic.(€²Œ²RMAJORZ
+CODE_SMELL
+Q
+java:S16045"(Make this anonymous inner class a lambda(ê•úÄRMAJORZ
+CODE_SMELL
+V
+java:S1604;"(Make this anonymous inner class a lambda(¤ÿäåúÿÿÿÿRMAJORZ
+CODE_SMELL
+V
+java:S1604B"(Make this anonymous inner class a lambda(ÚåÁ©úÿÿÿÿRMAJORZ
+CODE_SMELL
+P
+java:S1659"'Declare "btnCancel" on a separate line.(ßæëíRMINORZ
+CODE_SMELL
+Y
+java:S1659"+Declare "cboProperties" on a separate line.(°ôç´üÿÿÿÿRMINORZ
+CODE_SMELL
+W
+java:S1948"&Make "deal" transient or serializable.(¶ž†ÿÿÿÿÿRCRITICALZ
+CODE_SMELL
+Z
+java:S18747",Remove this use of "hide"; it is deprecated.(ñûáûÿÿÿÿRMINORZ
+CODE_SMELL
+U
+java:S1874V",Remove this use of "hide"; it is deprecated.(ß—ÔºRMINORZ
+CODE_SMELL
+f
+java:S1155c">Use isEmpty() to check whether the collection is empty or not.(æžðsRMINORZ
+CODE_SMELL

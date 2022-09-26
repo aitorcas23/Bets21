@@ -1,0 +1,1104 @@
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-05-15 16:01:33 #1 store] 
+Database 'C:\Users\aizpi\OneDrive\Escritorio\uni\si\BetsTrue\src\main\resources\bets.temp' is opened by 5628@DESKTOP-2TFIQUK
+
+[2022-05-15 16:01:34 #2 type.registry] 
+New type domain.User
+
+[2022-05-15 16:01:34 #3 type.registry] 
+New type domain.NotAdmin
+
+[2022-05-15 16:01:34 #4 type] 
+Type domain.User is not enhanced.
+
+[2022-05-15 16:01:34 #5 type.registry] 
+New type domain.Message
+
+[2022-05-15 16:01:34 #6 type.registry] 
+New type java.util.ArrayList<domain.Message>
+
+[2022-05-15 16:01:34 #7 type] 
+Type domain.NotAdmin is not enhanced.
+
+[2022-05-15 16:01:34 #8 type.registry] 
+New type domain.Follow
+
+[2022-05-15 16:01:34 #9 type.registry] 
+New type java.util.ArrayList<domain.Follow>
+
+[2022-05-15 16:01:34 #10 type.registry] 
+New type domain.MultiBet
+
+[2022-05-15 16:01:34 #11 type.registry] 
+New type java.util.ArrayList<domain.MultiBet>
+
+[2022-05-15 16:01:34 #12 type.registry] 
+New type domain.Movement
+
+[2022-05-15 16:01:34 #13 type.registry] 
+New type java.util.ArrayList<domain.Movement>
+
+[2022-05-15 16:01:34 #14 type] 
+Type domain.Message is not enhanced.
+
+[2022-05-15 16:01:34 #15 type] 
+Type domain.Follow is not enhanced.
+
+[2022-05-15 16:01:34 #16 type] 
+Type domain.MultiBet is not enhanced.
+
+[2022-05-15 16:01:34 #17 type.registry] 
+New type domain.Bet
+
+[2022-05-15 16:01:34 #18 type.registry] 
+New type java.util.ArrayList<domain.Bet>
+
+[2022-05-15 16:01:34 #19 type] 
+Type domain.Movement is not enhanced.
+
+[2022-05-15 16:01:34 #20 type] 
+Type domain.Bet is not enhanced.
+
+[2022-05-15 16:01:34 #21 type.registry] 
+New type domain.Quote
+
+[2022-05-15 16:01:34 #22 type] 
+Type domain.Quote is not enhanced.
+
+[2022-05-15 16:01:34 #23 type.registry] 
+New type domain.Question
+
+[2022-05-15 16:01:34 #24 type] 
+Type domain.Question is not enhanced.
+
+[2022-05-15 16:01:34 #25 type.registry] 
+New type java.util.ArrayList<domain.Quote>
+
+[2022-05-15 16:01:34 #26 type.registry] 
+New type domain.Event
+
+[2022-05-15 16:01:34 #27 type] 
+Type domain.Event is not enhanced.
+
+[2022-05-15 16:01:34 #28 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2022-05-15 16:01:34 #29 type.registry] 
+New type domain.Admin
+
+[2022-05-15 16:01:34 #30 type] 
+Type domain.Admin is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-05-15 16:04:19 #1 store] 
+Database 'C:\Users\aizpi\OneDrive\Escritorio\uni\si\BetsTrue\src\main\resources\bets.temp' is opened by 1816@DESKTOP-2TFIQUK
+
+[2022-05-15 16:04:20 #2 type.registry] 
+New type domain.User
+
+[2022-05-15 16:04:20 #3 type.registry] 
+New type domain.NotAdmin
+
+[2022-05-15 16:04:20 #4 type] 
+Type domain.User is not enhanced.
+
+[2022-05-15 16:04:20 #5 type.registry] 
+New type domain.Message
+
+[2022-05-15 16:04:20 #6 type.registry] 
+New type java.util.ArrayList<domain.Message>
+
+[2022-05-15 16:04:20 #7 type] 
+Type domain.NotAdmin is not enhanced.
+
+[2022-05-15 16:04:20 #8 type.registry] 
+New type domain.Follow
+
+[2022-05-15 16:04:20 #9 type.registry] 
+New type java.util.ArrayList<domain.Follow>
+
+[2022-05-15 16:04:20 #10 type.registry] 
+New type domain.MultiBet
+
+[2022-05-15 16:04:20 #11 type.registry] 
+New type java.util.ArrayList<domain.MultiBet>
+
+[2022-05-15 16:04:20 #12 type.registry] 
+New type domain.Movement
+
+[2022-05-15 16:04:20 #13 type.registry] 
+New type java.util.ArrayList<domain.Movement>
+
+[2022-05-15 16:04:20 #14 type] 
+Type domain.Message is not enhanced.
+
+[2022-05-15 16:04:20 #15 type] 
+Type domain.Follow is not enhanced.
+
+[2022-05-15 16:04:20 #16 type] 
+Type domain.MultiBet is not enhanced.
+
+[2022-05-15 16:04:20 #17 type.registry] 
+New type domain.Bet
+
+[2022-05-15 16:04:20 #18 type.registry] 
+New type java.util.ArrayList<domain.Bet>
+
+[2022-05-15 16:04:20 #19 type] 
+Type domain.Movement is not enhanced.
+
+[2022-05-15 16:04:20 #20 type] 
+Type domain.Bet is not enhanced.
+
+[2022-05-15 16:04:20 #21 type.registry] 
+New type domain.Quote
+
+[2022-05-15 16:04:20 #22 type] 
+Type domain.Quote is not enhanced.
+
+[2022-05-15 16:04:20 #23 type.registry] 
+New type domain.Question
+
+[2022-05-15 16:04:20 #24 type] 
+Type domain.Question is not enhanced.
+
+[2022-05-15 16:04:20 #25 type.registry] 
+New type java.util.ArrayList<domain.Quote>
+
+[2022-05-15 16:04:20 #26 type.registry] 
+New type domain.Event
+
+[2022-05-15 16:04:20 #27 type] 
+Type domain.Event is not enhanced.
+
+[2022-05-15 16:04:20 #28 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2022-05-15 16:04:20 #29 type.registry] 
+New type domain.Admin
+
+[2022-05-15 16:04:20 #30 type] 
+Type domain.Admin is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-05-15 16:06:42 #1 store] 
+Database 'C:\Users\aizpi\OneDrive\Escritorio\uni\si\BetsTrue\src\main\resources\bets.temp' is opened by 18236@DESKTOP-2TFIQUK
+
+[2022-05-15 16:06:42 #2 type.registry] 
+New type domain.User
+
+[2022-05-15 16:06:42 #3 type.registry] 
+New type domain.NotAdmin
+
+[2022-05-15 16:06:42 #4 type] 
+Type domain.User is not enhanced.
+
+[2022-05-15 16:06:42 #5 type.registry] 
+New type domain.Message
+
+[2022-05-15 16:06:42 #6 type.registry] 
+New type java.util.ArrayList<domain.Message>
+
+[2022-05-15 16:06:42 #7 type] 
+Type domain.NotAdmin is not enhanced.
+
+[2022-05-15 16:06:42 #8 type.registry] 
+New type domain.Follow
+
+[2022-05-15 16:06:42 #9 type.registry] 
+New type java.util.ArrayList<domain.Follow>
+
+[2022-05-15 16:06:42 #10 type.registry] 
+New type domain.MultiBet
+
+[2022-05-15 16:06:42 #11 type.registry] 
+New type java.util.ArrayList<domain.MultiBet>
+
+[2022-05-15 16:06:42 #12 type.registry] 
+New type domain.Movement
+
+[2022-05-15 16:06:42 #13 type.registry] 
+New type java.util.ArrayList<domain.Movement>
+
+[2022-05-15 16:06:42 #14 type] 
+Type domain.Message is not enhanced.
+
+[2022-05-15 16:06:42 #15 type] 
+Type domain.Follow is not enhanced.
+
+[2022-05-15 16:06:42 #16 type] 
+Type domain.MultiBet is not enhanced.
+
+[2022-05-15 16:06:42 #17 type.registry] 
+New type domain.Bet
+
+[2022-05-15 16:06:42 #18 type.registry] 
+New type java.util.ArrayList<domain.Bet>
+
+[2022-05-15 16:06:42 #19 type] 
+Type domain.Movement is not enhanced.
+
+[2022-05-15 16:06:42 #20 type] 
+Type domain.Bet is not enhanced.
+
+[2022-05-15 16:06:42 #21 type.registry] 
+New type domain.Quote
+
+[2022-05-15 16:06:42 #22 type] 
+Type domain.Quote is not enhanced.
+
+[2022-05-15 16:06:42 #23 type.registry] 
+New type domain.Question
+
+[2022-05-15 16:06:42 #24 type] 
+Type domain.Question is not enhanced.
+
+[2022-05-15 16:06:42 #25 type.registry] 
+New type java.util.ArrayList<domain.Quote>
+
+[2022-05-15 16:06:42 #26 type.registry] 
+New type domain.Event
+
+[2022-05-15 16:06:42 #27 type] 
+Type domain.Event is not enhanced.
+
+[2022-05-15 16:06:42 #28 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2022-05-15 16:06:42 #29 type.registry] 
+New type domain.Admin
+
+[2022-05-15 16:06:42 #30 type] 
+Type domain.Admin is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-05-15 17:01:26 #1 store] 
+Database 'C:\Users\aizpi\OneDrive\Escritorio\uni\si\BetsTrue\src\main\resources\bets.temp' is opened by 10728@DESKTOP-2TFIQUK
+
+[2022-05-15 17:01:26 #2 type.registry] 
+New type domain.User
+
+[2022-05-15 17:01:26 #3 type.registry] 
+New type domain.NotAdmin
+
+[2022-05-15 17:01:26 #4 type] 
+Type domain.User is not enhanced.
+
+[2022-05-15 17:01:26 #5 type.registry] 
+New type domain.Message
+
+[2022-05-15 17:01:26 #6 type.registry] 
+New type java.util.ArrayList<domain.Message>
+
+[2022-05-15 17:01:26 #7 type] 
+Type domain.NotAdmin is not enhanced.
+
+[2022-05-15 17:01:26 #8 type.registry] 
+New type domain.Follow
+
+[2022-05-15 17:01:26 #9 type.registry] 
+New type java.util.ArrayList<domain.Follow>
+
+[2022-05-15 17:01:26 #10 type.registry] 
+New type domain.MultiBet
+
+[2022-05-15 17:01:26 #11 type.registry] 
+New type java.util.ArrayList<domain.MultiBet>
+
+[2022-05-15 17:01:26 #12 type.registry] 
+New type domain.Movement
+
+[2022-05-15 17:01:26 #13 type.registry] 
+New type java.util.ArrayList<domain.Movement>
+
+[2022-05-15 17:01:26 #14 type] 
+Type domain.Message is not enhanced.
+
+[2022-05-15 17:01:26 #15 type] 
+Type domain.Follow is not enhanced.
+
+[2022-05-15 17:01:26 #16 type] 
+Type domain.MultiBet is not enhanced.
+
+[2022-05-15 17:01:26 #17 type.registry] 
+New type domain.Bet
+
+[2022-05-15 17:01:26 #18 type.registry] 
+New type java.util.ArrayList<domain.Bet>
+
+[2022-05-15 17:01:26 #19 type] 
+Type domain.Movement is not enhanced.
+
+[2022-05-15 17:01:26 #20 type] 
+Type domain.Bet is not enhanced.
+
+[2022-05-15 17:01:26 #21 type.registry] 
+New type domain.Quote
+
+[2022-05-15 17:01:26 #22 type] 
+Type domain.Quote is not enhanced.
+
+[2022-05-15 17:01:26 #23 type.registry] 
+New type domain.Question
+
+[2022-05-15 17:01:26 #24 type] 
+Type domain.Question is not enhanced.
+
+[2022-05-15 17:01:26 #25 type.registry] 
+New type java.util.ArrayList<domain.Quote>
+
+[2022-05-15 17:01:26 #26 type.registry] 
+New type domain.Event
+
+[2022-05-15 17:01:26 #27 type] 
+Type domain.Event is not enhanced.
+
+[2022-05-15 17:01:26 #28 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2022-05-15 17:01:26 #29 type.registry] 
+New type domain.Admin
+
+[2022-05-15 17:01:26 #30 type] 
+Type domain.Admin is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-05-15 17:02:24 #1 store] 
+Database 'C:\Users\aizpi\OneDrive\Escritorio\uni\si\BetsTrue\src\main\resources\bets.temp' is opened by 13212@DESKTOP-2TFIQUK
+
+[2022-05-15 17:02:24 #2 type.registry] 
+New type domain.User
+
+[2022-05-15 17:02:24 #3 type.registry] 
+New type domain.NotAdmin
+
+[2022-05-15 17:02:24 #4 type] 
+Type domain.User is not enhanced.
+
+[2022-05-15 17:02:24 #5 type.registry] 
+New type domain.Message
+
+[2022-05-15 17:02:24 #6 type.registry] 
+New type java.util.ArrayList<domain.Message>
+
+[2022-05-15 17:02:24 #7 type] 
+Type domain.NotAdmin is not enhanced.
+
+[2022-05-15 17:02:24 #8 type.registry] 
+New type domain.Follow
+
+[2022-05-15 17:02:24 #9 type.registry] 
+New type java.util.ArrayList<domain.Follow>
+
+[2022-05-15 17:02:24 #10 type.registry] 
+New type domain.MultiBet
+
+[2022-05-15 17:02:24 #11 type.registry] 
+New type java.util.ArrayList<domain.MultiBet>
+
+[2022-05-15 17:02:24 #12 type.registry] 
+New type domain.Movement
+
+[2022-05-15 17:02:24 #13 type.registry] 
+New type java.util.ArrayList<domain.Movement>
+
+[2022-05-15 17:02:24 #14 type] 
+Type domain.Message is not enhanced.
+
+[2022-05-15 17:02:24 #15 type] 
+Type domain.Follow is not enhanced.
+
+[2022-05-15 17:02:24 #16 type] 
+Type domain.MultiBet is not enhanced.
+
+[2022-05-15 17:02:24 #17 type.registry] 
+New type domain.Bet
+
+[2022-05-15 17:02:24 #18 type.registry] 
+New type java.util.ArrayList<domain.Bet>
+
+[2022-05-15 17:02:24 #19 type] 
+Type domain.Movement is not enhanced.
+
+[2022-05-15 17:02:24 #20 type] 
+Type domain.Bet is not enhanced.
+
+[2022-05-15 17:02:24 #21 type.registry] 
+New type domain.Quote
+
+[2022-05-15 17:02:24 #22 type] 
+Type domain.Quote is not enhanced.
+
+[2022-05-15 17:02:24 #23 type.registry] 
+New type domain.Question
+
+[2022-05-15 17:02:24 #24 type] 
+Type domain.Question is not enhanced.
+
+[2022-05-15 17:02:24 #25 type.registry] 
+New type java.util.ArrayList<domain.Quote>
+
+[2022-05-15 17:02:24 #26 type.registry] 
+New type domain.Event
+
+[2022-05-15 17:02:24 #27 type] 
+Type domain.Event is not enhanced.
+
+[2022-05-15 17:02:24 #28 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2022-05-15 17:02:24 #29 type.registry] 
+New type domain.Admin
+
+[2022-05-15 17:02:24 #30 type] 
+Type domain.Admin is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-05-15 17:22:25 #1 store] 
+Database 'C:\Users\aizpi\OneDrive\Escritorio\uni\si\BetsTrue\src\main\resources\bets.temp' is opened by 1684@DESKTOP-2TFIQUK
+
+[2022-05-15 17:22:25 #2 type.registry] 
+New type domain.User
+
+[2022-05-15 17:22:25 #3 type.registry] 
+New type domain.NotAdmin
+
+[2022-05-15 17:22:25 #4 type] 
+Type domain.User is not enhanced.
+
+[2022-05-15 17:22:25 #5 type.registry] 
+New type domain.Message
+
+[2022-05-15 17:22:25 #6 type.registry] 
+New type java.util.ArrayList<domain.Message>
+
+[2022-05-15 17:22:25 #7 type] 
+Type domain.NotAdmin is not enhanced.
+
+[2022-05-15 17:22:25 #8 type.registry] 
+New type domain.Follow
+
+[2022-05-15 17:22:25 #9 type.registry] 
+New type java.util.ArrayList<domain.Follow>
+
+[2022-05-15 17:22:25 #10 type.registry] 
+New type domain.MultiBet
+
+[2022-05-15 17:22:25 #11 type.registry] 
+New type java.util.ArrayList<domain.MultiBet>
+
+[2022-05-15 17:22:25 #12 type.registry] 
+New type domain.Movement
+
+[2022-05-15 17:22:25 #13 type.registry] 
+New type java.util.ArrayList<domain.Movement>
+
+[2022-05-15 17:22:25 #14 type] 
+Type domain.Message is not enhanced.
+
+[2022-05-15 17:22:25 #15 type] 
+Type domain.Follow is not enhanced.
+
+[2022-05-15 17:22:25 #16 type] 
+Type domain.MultiBet is not enhanced.
+
+[2022-05-15 17:22:25 #17 type.registry] 
+New type domain.Bet
+
+[2022-05-15 17:22:25 #18 type.registry] 
+New type java.util.ArrayList<domain.Bet>
+
+[2022-05-15 17:22:25 #19 type] 
+Type domain.Movement is not enhanced.
+
+[2022-05-15 17:22:25 #20 type] 
+Type domain.Bet is not enhanced.
+
+[2022-05-15 17:22:25 #21 type.registry] 
+New type domain.Quote
+
+[2022-05-15 17:22:25 #22 type] 
+Type domain.Quote is not enhanced.
+
+[2022-05-15 17:22:25 #23 type.registry] 
+New type domain.Question
+
+[2022-05-15 17:22:25 #24 type] 
+Type domain.Question is not enhanced.
+
+[2022-05-15 17:22:25 #25 type.registry] 
+New type java.util.ArrayList<domain.Quote>
+
+[2022-05-15 17:22:25 #26 type.registry] 
+New type domain.Event
+
+[2022-05-15 17:22:25 #27 type] 
+Type domain.Event is not enhanced.
+
+[2022-05-15 17:22:25 #28 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2022-05-15 17:22:25 #29 type.registry] 
+New type domain.Admin
+
+[2022-05-15 17:22:25 #30 type] 
+Type domain.Admin is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-05-15 17:25:29 #1 store] 
+Database 'C:\Users\aizpi\OneDrive\Escritorio\uni\si\BetsTrue\src\main\resources\bets.temp' is opened by 3716@DESKTOP-2TFIQUK
+
+[2022-05-15 17:25:29 #2 type.registry] 
+New type domain.User
+
+[2022-05-15 17:25:29 #3 type.registry] 
+New type domain.NotAdmin
+
+[2022-05-15 17:25:29 #4 type] 
+Type domain.User is not enhanced.
+
+[2022-05-15 17:25:29 #5 type.registry] 
+New type domain.Message
+
+[2022-05-15 17:25:29 #6 type.registry] 
+New type java.util.ArrayList<domain.Message>
+
+[2022-05-15 17:25:29 #7 type] 
+Type domain.NotAdmin is not enhanced.
+
+[2022-05-15 17:25:29 #8 type.registry] 
+New type domain.Follow
+
+[2022-05-15 17:25:29 #9 type.registry] 
+New type java.util.ArrayList<domain.Follow>
+
+[2022-05-15 17:25:29 #10 type.registry] 
+New type domain.MultiBet
+
+[2022-05-15 17:25:29 #11 type.registry] 
+New type java.util.ArrayList<domain.MultiBet>
+
+[2022-05-15 17:25:29 #12 type.registry] 
+New type domain.Movement
+
+[2022-05-15 17:25:29 #13 type.registry] 
+New type java.util.ArrayList<domain.Movement>
+
+[2022-05-15 17:25:29 #14 type] 
+Type domain.Message is not enhanced.
+
+[2022-05-15 17:25:29 #15 type] 
+Type domain.Follow is not enhanced.
+
+[2022-05-15 17:25:29 #16 type] 
+Type domain.MultiBet is not enhanced.
+
+[2022-05-15 17:25:29 #17 type.registry] 
+New type domain.Bet
+
+[2022-05-15 17:25:29 #18 type.registry] 
+New type java.util.ArrayList<domain.Bet>
+
+[2022-05-15 17:25:29 #19 type] 
+Type domain.Movement is not enhanced.
+
+[2022-05-15 17:25:29 #20 type] 
+Type domain.Bet is not enhanced.
+
+[2022-05-15 17:25:29 #21 type.registry] 
+New type domain.Quote
+
+[2022-05-15 17:25:29 #22 type] 
+Type domain.Quote is not enhanced.
+
+[2022-05-15 17:25:29 #23 type.registry] 
+New type domain.Question
+
+[2022-05-15 17:25:29 #24 type] 
+Type domain.Question is not enhanced.
+
+[2022-05-15 17:25:29 #25 type.registry] 
+New type java.util.ArrayList<domain.Quote>
+
+[2022-05-15 17:25:29 #26 type.registry] 
+New type domain.Event
+
+[2022-05-15 17:25:29 #27 type] 
+Type domain.Event is not enhanced.
+
+[2022-05-15 17:25:29 #28 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2022-05-15 17:25:29 #29 type.registry] 
+New type domain.Admin
+
+[2022-05-15 17:25:29 #30 type] 
+Type domain.Admin is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-05-15 17:29:03 #1 store] 
+Database 'C:\Users\aizpi\OneDrive\Escritorio\uni\si\BetsTrue\src\main\resources\bets.temp' is opened by 9796@DESKTOP-2TFIQUK
+
+[2022-05-15 17:29:04 #2 type.registry] 
+New type domain.User
+
+[2022-05-15 17:29:04 #3 type.registry] 
+New type domain.NotAdmin
+
+[2022-05-15 17:29:04 #4 type] 
+Type domain.User is not enhanced.
+
+[2022-05-15 17:29:04 #5 type.registry] 
+New type domain.Message
+
+[2022-05-15 17:29:04 #6 type.registry] 
+New type java.util.ArrayList<domain.Message>
+
+[2022-05-15 17:29:04 #7 type] 
+Type domain.NotAdmin is not enhanced.
+
+[2022-05-15 17:29:04 #8 type.registry] 
+New type domain.Follow
+
+[2022-05-15 17:29:04 #9 type.registry] 
+New type java.util.ArrayList<domain.Follow>
+
+[2022-05-15 17:29:04 #10 type.registry] 
+New type domain.MultiBet
+
+[2022-05-15 17:29:04 #11 type.registry] 
+New type java.util.ArrayList<domain.MultiBet>
+
+[2022-05-15 17:29:04 #12 type.registry] 
+New type domain.Movement
+
+[2022-05-15 17:29:04 #13 type.registry] 
+New type java.util.ArrayList<domain.Movement>
+
+[2022-05-15 17:29:04 #14 type] 
+Type domain.Message is not enhanced.
+
+[2022-05-15 17:29:04 #15 type] 
+Type domain.Follow is not enhanced.
+
+[2022-05-15 17:29:04 #16 type] 
+Type domain.MultiBet is not enhanced.
+
+[2022-05-15 17:29:04 #17 type.registry] 
+New type domain.Bet
+
+[2022-05-15 17:29:04 #18 type.registry] 
+New type java.util.ArrayList<domain.Bet>
+
+[2022-05-15 17:29:04 #19 type] 
+Type domain.Movement is not enhanced.
+
+[2022-05-15 17:29:04 #20 type] 
+Type domain.Bet is not enhanced.
+
+[2022-05-15 17:29:04 #21 type.registry] 
+New type domain.Quote
+
+[2022-05-15 17:29:04 #22 type] 
+Type domain.Quote is not enhanced.
+
+[2022-05-15 17:29:04 #23 type.registry] 
+New type domain.Question
+
+[2022-05-15 17:29:04 #24 type] 
+Type domain.Question is not enhanced.
+
+[2022-05-15 17:29:04 #25 type.registry] 
+New type java.util.ArrayList<domain.Quote>
+
+[2022-05-15 17:29:04 #26 type.registry] 
+New type domain.Event
+
+[2022-05-15 17:29:04 #27 type] 
+Type domain.Event is not enhanced.
+
+[2022-05-15 17:29:04 #28 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2022-05-15 17:29:04 #29 type.registry] 
+New type domain.Admin
+
+[2022-05-15 17:29:04 #30 type] 
+Type domain.Admin is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-05-15 17:29:41 #1 store] 
+Database 'C:\Users\aizpi\OneDrive\Escritorio\uni\si\BetsTrue\src\main\resources\bets.temp' is opened by 13304@DESKTOP-2TFIQUK
+
+[2022-05-15 17:29:41 #2 type.registry] 
+New type domain.User
+
+[2022-05-15 17:29:41 #3 type.registry] 
+New type domain.NotAdmin
+
+[2022-05-15 17:29:41 #4 type] 
+Type domain.User is not enhanced.
+
+[2022-05-15 17:29:41 #5 type.registry] 
+New type domain.Message
+
+[2022-05-15 17:29:41 #6 type.registry] 
+New type java.util.ArrayList<domain.Message>
+
+[2022-05-15 17:29:41 #7 type] 
+Type domain.NotAdmin is not enhanced.
+
+[2022-05-15 17:29:41 #8 type.registry] 
+New type domain.Follow
+
+[2022-05-15 17:29:41 #9 type.registry] 
+New type java.util.ArrayList<domain.Follow>
+
+[2022-05-15 17:29:41 #10 type.registry] 
+New type domain.MultiBet
+
+[2022-05-15 17:29:41 #11 type.registry] 
+New type java.util.ArrayList<domain.MultiBet>
+
+[2022-05-15 17:29:41 #12 type.registry] 
+New type domain.Movement
+
+[2022-05-15 17:29:41 #13 type.registry] 
+New type java.util.ArrayList<domain.Movement>
+
+[2022-05-15 17:29:41 #14 type] 
+Type domain.Message is not enhanced.
+
+[2022-05-15 17:29:41 #15 type] 
+Type domain.Follow is not enhanced.
+
+[2022-05-15 17:29:41 #16 type] 
+Type domain.MultiBet is not enhanced.
+
+[2022-05-15 17:29:41 #17 type.registry] 
+New type domain.Bet
+
+[2022-05-15 17:29:41 #18 type.registry] 
+New type java.util.ArrayList<domain.Bet>
+
+[2022-05-15 17:29:41 #19 type] 
+Type domain.Movement is not enhanced.
+
+[2022-05-15 17:29:41 #20 type] 
+Type domain.Bet is not enhanced.
+
+[2022-05-15 17:29:41 #21 type.registry] 
+New type domain.Quote
+
+[2022-05-15 17:29:41 #22 type] 
+Type domain.Quote is not enhanced.
+
+[2022-05-15 17:29:41 #23 type.registry] 
+New type domain.Question
+
+[2022-05-15 17:29:41 #24 type] 
+Type domain.Question is not enhanced.
+
+[2022-05-15 17:29:41 #25 type.registry] 
+New type java.util.ArrayList<domain.Quote>
+
+[2022-05-15 17:29:41 #26 type.registry] 
+New type domain.Event
+
+[2022-05-15 17:29:41 #27 type] 
+Type domain.Event is not enhanced.
+
+[2022-05-15 17:29:41 #28 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2022-05-15 17:29:41 #29 type.registry] 
+New type domain.Admin
+
+[2022-05-15 17:29:41 #30 type] 
+Type domain.Admin is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-05-15 17:33:57 #1 store] 
+Database 'C:\Users\aizpi\OneDrive\Escritorio\uni\si\BetsTrue\src\main\resources\bets.temp' is opened by 11236@DESKTOP-2TFIQUK
+
+[2022-05-15 17:33:57 #2 type.registry] 
+New type domain.User
+
+[2022-05-15 17:33:57 #3 type.registry] 
+New type domain.NotAdmin
+
+[2022-05-15 17:33:57 #4 type] 
+Type domain.User is not enhanced.
+
+[2022-05-15 17:33:57 #5 type.registry] 
+New type domain.Message
+
+[2022-05-15 17:33:57 #6 type.registry] 
+New type java.util.ArrayList<domain.Message>
+
+[2022-05-15 17:33:57 #7 type] 
+Type domain.NotAdmin is not enhanced.
+
+[2022-05-15 17:33:57 #8 type.registry] 
+New type domain.Follow
+
+[2022-05-15 17:33:57 #9 type.registry] 
+New type java.util.ArrayList<domain.Follow>
+
+[2022-05-15 17:33:57 #10 type.registry] 
+New type domain.MultiBet
+
+[2022-05-15 17:33:57 #11 type.registry] 
+New type java.util.ArrayList<domain.MultiBet>
+
+[2022-05-15 17:33:57 #12 type.registry] 
+New type domain.Movement
+
+[2022-05-15 17:33:57 #13 type.registry] 
+New type java.util.ArrayList<domain.Movement>
+
+[2022-05-15 17:33:57 #14 type] 
+Type domain.Message is not enhanced.
+
+[2022-05-15 17:33:57 #15 type] 
+Type domain.Follow is not enhanced.
+
+[2022-05-15 17:33:57 #16 type] 
+Type domain.MultiBet is not enhanced.
+
+[2022-05-15 17:33:57 #17 type.registry] 
+New type domain.Bet
+
+[2022-05-15 17:33:57 #18 type.registry] 
+New type java.util.ArrayList<domain.Bet>
+
+[2022-05-15 17:33:57 #19 type] 
+Type domain.Movement is not enhanced.
+
+[2022-05-15 17:33:57 #20 type] 
+Type domain.Bet is not enhanced.
+
+[2022-05-15 17:33:57 #21 type.registry] 
+New type domain.Quote
+
+[2022-05-15 17:33:57 #22 type] 
+Type domain.Quote is not enhanced.
+
+[2022-05-15 17:33:57 #23 type.registry] 
+New type domain.Question
+
+[2022-05-15 17:33:57 #24 type] 
+Type domain.Question is not enhanced.
+
+[2022-05-15 17:33:57 #25 type.registry] 
+New type java.util.ArrayList<domain.Quote>
+
+[2022-05-15 17:33:57 #26 type.registry] 
+New type domain.Event
+
+[2022-05-15 17:33:57 #27 type] 
+Type domain.Event is not enhanced.
+
+[2022-05-15 17:33:57 #28 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2022-05-15 17:33:57 #29 type.registry] 
+New type domain.Admin
+
+[2022-05-15 17:33:57 #30 type] 
+Type domain.Admin is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-05-15 17:34:25 #1 store] 
+Database 'C:\Users\aizpi\OneDrive\Escritorio\uni\si\BetsTrue\src\main\resources\bets.temp' is opened by 5564@DESKTOP-2TFIQUK
+
+[2022-05-15 17:34:25 #2 type.registry] 
+New type domain.User
+
+[2022-05-15 17:34:25 #3 type.registry] 
+New type domain.NotAdmin
+
+[2022-05-15 17:34:25 #4 type] 
+Type domain.User is not enhanced.
+
+[2022-05-15 17:34:25 #5 type.registry] 
+New type domain.Message
+
+[2022-05-15 17:34:25 #6 type.registry] 
+New type java.util.ArrayList<domain.Message>
+
+[2022-05-15 17:34:25 #7 type] 
+Type domain.NotAdmin is not enhanced.
+
+[2022-05-15 17:34:25 #8 type.registry] 
+New type domain.Follow
+
+[2022-05-15 17:34:25 #9 type.registry] 
+New type java.util.ArrayList<domain.Follow>
+
+[2022-05-15 17:34:25 #10 type.registry] 
+New type domain.MultiBet
+
+[2022-05-15 17:34:25 #11 type.registry] 
+New type java.util.ArrayList<domain.MultiBet>
+
+[2022-05-15 17:34:25 #12 type.registry] 
+New type domain.Movement
+
+[2022-05-15 17:34:25 #13 type.registry] 
+New type java.util.ArrayList<domain.Movement>
+
+[2022-05-15 17:34:25 #14 type] 
+Type domain.Message is not enhanced.
+
+[2022-05-15 17:34:25 #15 type] 
+Type domain.Follow is not enhanced.
+
+[2022-05-15 17:34:25 #16 type] 
+Type domain.MultiBet is not enhanced.
+
+[2022-05-15 17:34:25 #17 type.registry] 
+New type domain.Bet
+
+[2022-05-15 17:34:25 #18 type.registry] 
+New type java.util.ArrayList<domain.Bet>
+
+[2022-05-15 17:34:25 #19 type] 
+Type domain.Movement is not enhanced.
+
+[2022-05-15 17:34:25 #20 type] 
+Type domain.Bet is not enhanced.
+
+[2022-05-15 17:34:25 #21 type.registry] 
+New type domain.Quote
+
+[2022-05-15 17:34:25 #22 type] 
+Type domain.Quote is not enhanced.
+
+[2022-05-15 17:34:25 #23 type.registry] 
+New type domain.Question
+
+[2022-05-15 17:34:25 #24 type] 
+Type domain.Question is not enhanced.
+
+[2022-05-15 17:34:25 #25 type.registry] 
+New type java.util.ArrayList<domain.Quote>
+
+[2022-05-15 17:34:25 #26 type.registry] 
+New type domain.Event
+
+[2022-05-15 17:34:25 #27 type] 
+Type domain.Event is not enhanced.
+
+[2022-05-15 17:34:25 #28 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2022-05-15 17:34:25 #29 type.registry] 
+New type domain.Admin
+
+[2022-05-15 17:34:25 #30 type] 
+Type domain.Admin is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-05-15 19:44:53 #1 store] 
+Database 'C:\Users\aizpi\OneDrive\Escritorio\uni\si\BetsTrue\src\main\resources\bets.temp' is opened by 11568@DESKTOP-2TFIQUK
+
+[2022-05-15 19:44:53 #2 type.registry] 
+New type domain.User
+
+[2022-05-15 19:44:53 #3 type.registry] 
+New type domain.NotAdmin
+
+[2022-05-15 19:44:53 #4 type] 
+Type domain.User is not enhanced.
+
+[2022-05-15 19:44:53 #5 type.registry] 
+New type domain.Message
+
+[2022-05-15 19:44:53 #6 type.registry] 
+New type java.util.ArrayList<domain.Message>
+
+[2022-05-15 19:44:53 #7 type] 
+Type domain.NotAdmin is not enhanced.
+
+[2022-05-15 19:44:53 #8 type.registry] 
+New type domain.Follow
+
+[2022-05-15 19:44:53 #9 type.registry] 
+New type java.util.ArrayList<domain.Follow>
+
+[2022-05-15 19:44:53 #10 type.registry] 
+New type domain.MultiBet
+
+[2022-05-15 19:44:53 #11 type.registry] 
+New type java.util.ArrayList<domain.MultiBet>
+
+[2022-05-15 19:44:53 #12 type.registry] 
+New type domain.Movement
+
+[2022-05-15 19:44:53 #13 type.registry] 
+New type java.util.ArrayList<domain.Movement>
+
+[2022-05-15 19:44:53 #14 type] 
+Type domain.Message is not enhanced.
+
+[2022-05-15 19:44:53 #15 type] 
+Type domain.Follow is not enhanced.
+
+[2022-05-15 19:44:53 #16 type] 
+Type domain.MultiBet is not enhanced.
+
+[2022-05-15 19:44:53 #17 type.registry] 
+New type domain.Bet
+
+[2022-05-15 19:44:53 #18 type.registry] 
+New type java.util.ArrayList<domain.Bet>
+
+[2022-05-15 19:44:53 #19 type] 
+Type domain.Movement is not enhanced.
+
+[2022-05-15 19:44:53 #20 type] 
+Type domain.Bet is not enhanced.
+
+[2022-05-15 19:44:53 #21 type.registry] 
+New type domain.Quote
+
+[2022-05-15 19:44:53 #22 type] 
+Type domain.Quote is not enhanced.
+
+[2022-05-15 19:44:53 #23 type.registry] 
+New type domain.Question
+
+[2022-05-15 19:44:53 #24 type] 
+Type domain.Question is not enhanced.
+
+[2022-05-15 19:44:53 #25 type.registry] 
+New type java.util.ArrayList<domain.Quote>
+
+[2022-05-15 19:44:53 #26 type.registry] 
+New type domain.Event
+
+[2022-05-15 19:44:53 #27 type] 
+Type domain.Event is not enhanced.
+
+[2022-05-15 19:44:53 #28 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2022-05-15 19:44:53 #29 type.registry] 
+New type domain.Admin
+
+[2022-05-15 19:44:53 #30 type] 
+Type domain.Admin is not enhanced.
+

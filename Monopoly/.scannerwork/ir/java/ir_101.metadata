@@ -1,0 +1,3 @@
+edu.ncsu.monopoly.Player#getAllProperties()[Ledu/ncsu/monopoly/Cell;
+java.util.ArrayList#<init>()V
+java.util.ArrayList#instance-init#

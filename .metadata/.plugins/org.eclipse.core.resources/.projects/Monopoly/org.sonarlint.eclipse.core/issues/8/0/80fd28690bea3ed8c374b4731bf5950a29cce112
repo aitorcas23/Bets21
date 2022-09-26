@@ -1,0 +1,12 @@
+
+X
+java:S3740'"/Provide the parametrized type for this generic.(Ü±ôÇRMAJORZ
+CODE_SMELL
+a
+java:S1874("3Remove this use of "newInstance"; it is deprecated.(Þµ¼¼øÿÿÿÿRMINORZ
+CODE_SMELL
+i	java:S125;"<This block of commented-out lines of code should be removed.(Êç¥ÀúÿÿÿÿRMAJORZ
+CODE_SMELL
+Z
+java:S1874N",Remove this use of "show"; it is deprecated.(ßÖêûûÿÿÿÿRMINORZ
+CODE_SMELL

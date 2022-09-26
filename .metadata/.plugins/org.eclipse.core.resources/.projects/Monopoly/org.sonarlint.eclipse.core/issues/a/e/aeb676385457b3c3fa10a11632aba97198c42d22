@@ -1,0 +1,58 @@
+
+]
+java:S3740"/Provide the parametrized type for this generic.(úÂÁœüÿÿÿÿRMAJORZ
+CODE_SMELL
+X
+java:S3740"/Provide the parametrized type for this generic.(’ì”¶RMAJORZ
+CODE_SMELL
+]
+java:S3740/"/Provide the parametrized type for this generic.(×Úü‰þÿÿÿÿRMAJORZ
+CODE_SMELL
+]
+java:S37400"/Provide the parametrized type for this generic.(ÎÅ÷þýÿÿÿÿRMAJORZ
+CODE_SMELL
+]
+java:S37404"/Provide the parametrized type for this generic.(¯¦õÞüÿÿÿÿRMAJORZ
+CODE_SMELL
+]
+java:S37405"/Provide the parametrized type for this generic.(…èû÷üÿÿÿÿRMAJORZ
+CODE_SMELL
+V
+java:S1604'"(Make this anonymous inner class a lambda(¥ÁÍ€ûÿÿÿÿRMAJORZ
+CODE_SMELL
+V
+java:S1604@"(Make this anonymous inner class a lambda(¥ÁÍ€ûÿÿÿÿRMAJORZ
+CODE_SMELL
+Y
+java:S1948"(Make "player" transient or serializable.(Ç¹Ù±úÿÿÿÿRCRITICALZ
+CODE_SMELL
+I
+java:S21296"!Remove this "Integer" constructor(Ô²¦,RMAJORZ
+CODE_SMELL
+W
+java:S18746"/Remove this use of "Integer"; it is deprecated.(Ô²¦,RMINORZ
+CODE_SMELL
+J
+java:S21297"!Remove this "Integer" constructor(¿Ê¬ÉRMAJORZ
+CODE_SMELL
+X
+java:S18747"/Remove this use of "Integer"; it is deprecated.(¿Ê¬ÉRMINORZ
+CODE_SMELL
+O
+java:S21298"!Remove this "Integer" constructor(Ö‰•ÏúÿÿÿÿRMAJORZ
+CODE_SMELL
+]
+java:S18748"/Remove this use of "Integer"; it is deprecated.(Ö‰•ÏúÿÿÿÿRMINORZ
+CODE_SMELL
+J
+java:S21299"!Remove this "Integer" constructor(±†êçRMAJORZ
+CODE_SMELL
+X
+java:S18749"/Remove this use of "Integer"; it is deprecated.(±†êçRMINORZ
+CODE_SMELL
+O
+java:S2129:"!Remove this "Integer" constructor(ðÚƒ¿ùÿÿÿÿRMAJORZ
+CODE_SMELL
+]
+java:S1874:"/Remove this use of "Integer"; it is deprecated.(ðÚƒ¿ùÿÿÿÿRMINORZ
+CODE_SMELL

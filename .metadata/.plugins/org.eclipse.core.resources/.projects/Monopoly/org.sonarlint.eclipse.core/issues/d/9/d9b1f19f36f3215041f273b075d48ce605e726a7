@@ -1,0 +1,52 @@
+
+]
+java:S3740"/Provide the parametrized type for this generic.(‚ÎÊñúÿÿÿÿRMAJORZ
+CODE_SMELL
+X
+java:S3740"/Provide the parametrized type for this generic.(ÐÎ¯•RMAJORZ
+CODE_SMELL
+X
+java:S3740"/Provide the parametrized type for this generic.(ÐÎ¯•RMAJORZ
+CODE_SMELL
+]
+java:S3740"/Provide the parametrized type for this generic.(ã¬›šúÿÿÿÿRMAJORZ
+CODE_SMELL
+X
+java:S3740!"/Provide the parametrized type for this generic.(ÐÎ¯•RMAJORZ
+CODE_SMELL
+X
+java:S3740!"/Provide the parametrized type for this generic.(ÐÎ¯•RMAJORZ
+CODE_SMELL
+]
+java:S3740("/Provide the parametrized type for this generic.(êƒäŽùÿÿÿÿRMAJORZ
+CODE_SMELL
+X
+java:S3740,"/Provide the parametrized type for this generic.(ÐÎ¯•RMAJORZ
+CODE_SMELL
+X
+java:S3740,"/Provide the parametrized type for this generic.(ÐÎ¯•RMAJORZ
+CODE_SMELL
+X
+java:S37403"/Provide the parametrized type for this generic.(œ‚½ˆRMAJORZ
+CODE_SMELL
+X
+java:S37407"/Provide the parametrized type for this generic.(ÐÎ¯•RMAJORZ
+CODE_SMELL
+X
+java:S37407"/Provide the parametrized type for this generic.(ÐÎ¯•RMAJORZ
+CODE_SMELL
+b
+java:S1118	":Add a private constructor to hide the implicit public one.(Ò‹„^RMAJORZ
+CODE_SMELL
+e
+java:S1854"<Remove this useless assignment to local variable "longSide".(ÝºÓRMAJORZ
+CODE_SMELL
+V
+java:S1481"-Remove this unused "longSide" local variable.(ÝºÓRMINORZ
+CODE_SMELL
+f
+java:S1854+"=Remove this useless assignment to local variable "shortSide".(ñÑÐóRMAJORZ
+CODE_SMELL
+W
+java:S1481+".Remove this unused "shortSide" local variable.(ñÑÐóRMINORZ
+CODE_SMELL

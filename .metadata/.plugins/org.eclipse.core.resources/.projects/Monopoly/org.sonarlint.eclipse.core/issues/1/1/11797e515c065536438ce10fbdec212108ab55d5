@@ -1,0 +1,79 @@
+
+]
+java:S3740
+"/Provide the parametrized type for this generic.(ãÁ‹ˆüÿÿÿÿRMAJORZ
+CODE_SMELL
+]
+java:S3740
+"/Provide the parametrized type for this generic.(ãÁ‹ˆüÿÿÿÿRMAJORZ
+CODE_SMELL
+X
+java:S3740"/Provide the parametrized type for this generic.(Á­›ªRMAJORZ
+CODE_SMELL
+X
+java:S3740"/Provide the parametrized type for this generic.(Á­›ªRMAJORZ
+CODE_SMELL
+X
+java:S3740"/Provide the parametrized type for this generic.(ˆÿô›RMAJORZ
+CODE_SMELL
+X
+java:S3740"/Provide the parametrized type for this generic.(ˆÿô›RMAJORZ
+CODE_SMELL
+X
+java:S3740"/Provide the parametrized type for this generic.(Ý­ÿ‰RMAJORZ
+CODE_SMELL
+X
+java:S3740"/Provide the parametrized type for this generic.(Ý­ÿ‰RMAJORZ
+CODE_SMELL
+X
+java:S3740V"/Provide the parametrized type for this generic.(Á³öÆRMAJORZ
+CODE_SMELL
+X
+java:S3740V"/Provide the parametrized type for this generic.(Á³öÆRMAJORZ
+CODE_SMELL
+]
+java:S3740b"/Provide the parametrized type for this generic.(°ÞÄúÿÿÿÿÿRMAJORZ
+CODE_SMELL
+]
+java:S3740b"/Provide the parametrized type for this generic.(°ÞÄúÿÿÿÿÿRMAJORZ
+CODE_SMELL
+X
+java:S3740c"/Provide the parametrized type for this generic.(®ÆÇÛRMAJORZ
+CODE_SMELL
+^
+java:S3740ƒ"/Provide the parametrized type for this generic.(‹²‹ÕüÿÿÿÿRMAJORZ
+CODE_SMELL
+^
+java:S3740„"/Provide the parametrized type for this generic.(ŒÜ³²úÿÿÿÿRMAJORZ
+CODE_SMELL
+Y
+java:S3740…"/Provide the parametrized type for this generic.( ÞÍŸRMAJORZ
+CODE_SMELL
+„
+java:S1149
+"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(ãÁ‹ˆüÿÿÿÿRMAJORZ
+CODE_SMELL
+J
+java:S2129#"!Remove this "Integer" constructor(ÁŒª°RMAJORZ
+CODE_SMELL
+X
+java:S1874#"/Remove this use of "Integer"; it is deprecated.(ÁŒª°RMINORZ
+CODE_SMELL
+O
+java:S2129)"!Remove this "Integer" constructor(Öëê®ùÿÿÿÿRMAJORZ
+CODE_SMELL
+]
+java:S1874)"/Remove this use of "Integer"; it is deprecated.(Öëê®ùÿÿÿÿRMINORZ
+CODE_SMELL
+O
+java:S2129/"!Remove this "Integer" constructor(¢¬‘¯üÿÿÿÿRMAJORZ
+CODE_SMELL
+]
+java:S1874/"/Remove this use of "Integer"; it is deprecated.(¢¬‘¯üÿÿÿÿRMINORZ
+CODE_SMELL
+J
+java:S2129O"!Remove this "Integer" constructor(ÁŒª°RMAJORZ
+CODE_SMELL
+X
+java:S1874O"/Remove this use of "Integer"; it is deprecated.(ÁŒª°RMINORZ
+CODE_SMELL

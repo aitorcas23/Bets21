@@ -1,0 +1,12 @@
+
+{
+java:S1192"JDefine a constant instead of duplicating this literal "Utility 1" 6 times.(–ÉÏ·þÿÿÿÿRCRITICALZ
+CODE_SMELL
+{
+java:S1192"JDefine a constant instead of duplicating this literal "Utility 2" 3 times.(¦ÁÅŠûÿÿÿÿRCRITICALZ
+CODE_SMELL
+c
+java:S1161":Add the "@Override" annotation above this method signature(™²ü˜RMAJORZ
+CODE_SMELL
+R
+java:S5960"+Remove this assertion from production code.(·©‡ÐýÿÿÿÿRMAJORZBUG

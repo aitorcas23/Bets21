@@ -1,0 +1,2 @@
+edu.ncsu.monopoly.gui.InfoFormatter#cellInfo(Ledu/ncsu/monopoly/Cell;)Ljava/lang/String;
+java.lang.Object#getClass()Ljava/lang/Class;

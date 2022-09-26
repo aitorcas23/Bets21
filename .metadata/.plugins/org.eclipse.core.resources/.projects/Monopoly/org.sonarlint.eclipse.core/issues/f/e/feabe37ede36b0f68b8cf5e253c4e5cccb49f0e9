@@ -1,0 +1,49 @@
+
+Œ
+java:S1488*"^Immediately return this expression instead of assigning it to the temporary variable "dialog".(Í¼ëûÿÿÿÿRMINORZ
+CODE_SMELL
+Œ
+java:S1488/"^Immediately return this expression instead of assigning it to the temporary variable "dialog".( ¬­›ıÿÿÿÿRMINORZ
+CODE_SMELL
+²
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ì¼À¼şÿÿÿÿRCRITICALZ
+CODE_SMELL
+­
+java:S1186
+"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(÷ÚçñRCRITICALZ
+CODE_SMELL
+²
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÂğÂ–øÿÿÿÿRCRITICALZ
+CODE_SMELL
+­
+java:S1186&"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ßäæRCRITICALZ
+CODE_SMELL
+­
+java:S11863"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(˜ÆøÈRCRITICALZ
+CODE_SMELL
+²
+java:S1186B"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(“ÒºúÿÿÿÿRCRITICALZ
+CODE_SMELL
+­
+java:S1186E"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Öá°ÓRCRITICALZ
+CODE_SMELL
+­
+java:S1186L"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(êî¤«RCRITICALZ
+CODE_SMELL
+­
+java:S1186O"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(µ«õâRCRITICALZ
+CODE_SMELL
+­
+java:S1186X"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(³öRCRITICALZ
+CODE_SMELL
+­
+java:S1186["€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ö×õÄRCRITICALZ
+CODE_SMELL
+z
+java:S1659"LDeclare "btnEndTurnState" and all following declarations on a separate line.(†ç•ÎùÿÿÿÿRMINORZ
+CODE_SMELL
+R
+java:S1197"*Move the array designators [] to the type.(½æÛRMINORZ
+CODE_SMELL
+i	java:S125S"<This block of commented-out lines of code should be removed.(Æ­ĞòûÿÿÿÿRMAJORZ
+CODE_SMELL

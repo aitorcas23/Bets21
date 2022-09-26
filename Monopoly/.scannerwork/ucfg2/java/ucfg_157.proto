@@ -1,0 +1,88 @@
+
+Ledu.ncsu.monopoly.gui.MainWindow#queryCell(I)Ledu/ncsu/monopoly/gui/GUICell;r
+fC:/Users/aitor/Desktop/Clase/3/3-1/SI2/WorkspaceSI2/Monopoly/src/edu/ncsu/monopoly/gui/MainWindow.javaä ä("6*ö
+3r
+fC:/Users/aitor/Desktop/Clase/3/3-1/SI2/WorkspaceSI2/Monopoly/src/edu/ncsu/monopoly/gui/MainWindow.javaé( é(/"†
+r
+fC:/Users/aitor/Desktop/Clase/3/3-1/SI2/WorkspaceSI2/Monopoly/src/edu/ncsu/monopoly/gui/MainWindow.javaé! é(0*
+(
+guiCelledu.ncsu.monopoly.gui.GUICell*Â
+4r
+fC:/Users/aitor/Desktop/Clase/3/3-1/SI2/WorkspaceSI2/Monopoly/src/edu/ncsu/monopoly/gui/MainWindow.javaç ç(&Ã
+…
+r
+fC:/Users/aitor/Desktop/Clase/3/3-1/SI2/WorkspaceSI2/Monopoly/src/edu/ncsu/monopoly/gui/MainWindow.javaç ç(&
+%5java.util.ArrayList"__id*2*0"
+ edu.ncsu.monopoly.gui.MainWindow"
+
+guiCells¿
+Ω
+r
+fC:/Users/aitor/Desktop/Clase/3/3-1/SI2/WorkspaceSI2/Monopoly/src/edu/ncsu/monopoly/gui/MainWindow.javaç ç(-
+%6java.lang.Object"
+__arrayGet*
+
+%5java.util.ArrayList*
+""¡
+æ
+r
+fC:/Users/aitor/Desktop/Clase/3/3-1/SI2/WorkspaceSI2/Monopoly/src/edu/ncsu/monopoly/gui/MainWindow.javaç ç(.(
+guiCelledu.ncsu.monopoly.gui.GUICell"__id*
+
+%6java.lang.Objectçä
+r
+fC:/Users/aitor/Desktop/Clase/3/3-1/SI2/WorkspaceSI2/Monopoly/src/edu/ncsu/monopoly/gui/MainWindow.javaé é(
+%7edu.ncsu.monopoly.Cell"?edu.ncsu.monopoly.gui.GUICell#getCell()Ledu/ncsu/monopoly/Cell;**
+(
+guiCelledu.ncsu.monopoly.gui.GUICell2	getCell()*
+3
+5*ï
+5r
+fC:/Users/aitor/Desktop/Clase/3/3-1/SI2/WorkspaceSI2/Monopoly/src/edu/ncsu/monopoly/gui/MainWindow.javaå å(Ã
+…
+r
+fC:/Users/aitor/Desktop/Clase/3/3-1/SI2/WorkspaceSI2/Monopoly/src/edu/ncsu/monopoly/gui/MainWindow.javaå å(
+%3java.util.ArrayList"__id*2*0"
+ edu.ncsu.monopoly.gui.MainWindow"
+
+guiCellsƒ¡
+r
+fC:/Users/aitor/Desktop/Clase/3/3-1/SI2/WorkspaceSI2/Monopoly/src/edu/ncsu/monopoly/gui/MainWindow.javaå å($	
+%4int"java.util.ArrayList#size()I*
+
+%3java.util.ArrayList2size()*
+4
+1*Ò
+6r
+fC:/Users/aitor/Desktop/Clase/3/3-1/SI2/WorkspaceSI2/Monopoly/src/edu/ncsu/monopoly/gui/MainWindow.javaã ã(Ñ
+Å
+r
+fC:/Users/aitor/Desktop/Clase/3/3-1/SI2/WorkspaceSI2/Monopoly/src/edu/ncsu/monopoly/gui/MainWindow.javaã ã(#"
+%0edu.ncsu.monopoly.GameMaster"Eedu.ncsu.monopoly.GameMaster#instance()Ledu/ncsu/monopoly/GameMaster;* "
+edu.ncsu.monopoly.GameMasteröó
+r
+fC:/Users/aitor/Desktop/Clase/3/3-1/SI2/WorkspaceSI2/Monopoly/src/edu/ncsu/monopoly/gui/MainWindow.javaã ã(2!
+%1edu.ncsu.monopoly.GameBoard"Hedu.ncsu.monopoly.GameMaster#getGameBoard()Ledu/ncsu/monopoly/GameBoard;*$
+"
+%0edu.ncsu.monopoly.GameMaster2getGameBoard()éã
+r
+fC:/Users/aitor/Desktop/Clase/3/3-1/SI2/WorkspaceSI2/Monopoly/src/edu/ncsu/monopoly/gui/MainWindow.javaã ã(A
+%2edu.ncsu.monopoly.Cell">edu.ncsu.monopoly.GameBoard#getCell(I)Ledu/ncsu/monopoly/Cell;*#
+!
+%1edu.ncsu.monopoly.GameBoard*
+""2
+getCell(I)Ω
+∫
+r
+fC:/Users/aitor/Desktop/Clase/3/3-1/SI2/WorkspaceSI2/Monopoly/src/edu/ncsu/monopoly/gui/MainWindow.javaã ã(B
+celledu.ncsu.monopoly.Cell"__id*
+
+%2edu.ncsu.monopoly.Cell*
+5*ı
+1r
+fC:/Users/aitor/Desktop/Clase/3/3-1/SI2/WorkspaceSI2/Monopoly/src/edu/ncsu/monopoly/gui/MainWindow.javaê	 ê("|
+r
+fC:/Users/aitor/Desktop/Clase/3/3-1/SI2/WorkspaceSI2/Monopoly/src/edu/ncsu/monopoly/gui/MainWindow.javaê ê(
+"":
+""B$"
+ edu.ncsu.monopoly.gui.MainWindow

@@ -1,0 +1,27 @@
+
+]
+java:S37403"/Provide the parametrized type for this generic.(¦À™›øÿÿÿÿRMAJORZ
+CODE_SMELL
+h
+java:S1161":Add the "@Override" annotation above this method signature(ø’¸ŠıÿÿÿÿRMAJORZ
+CODE_SMELL
+e
+java:S1854X"7Remove this useless assignment to local variable "gui".(ÄûÛûÿÿÿÿRMAJORZ
+CODE_SMELL
+V
+java:S1481X"(Remove this unused "gui" local variable.(ÄûÛûÿÿÿÿRMINORZ
+CODE_SMELL
+e
+java:S1854a"7Remove this useless assignment to local variable "gui".(ÄûÛûÿÿÿÿRMAJORZ
+CODE_SMELL
+V
+java:S1481a"(Remove this unused "gui" local variable.(ÄûÛûÿÿÿÿRMINORZ
+CODE_SMELL
+e
+java:S1854h"7Remove this useless assignment to local variable "gui".(ÄûÛûÿÿÿÿRMAJORZ
+CODE_SMELL
+V
+java:S1481h"(Remove this unused "gui" local variable.(ÄûÛûÿÿÿÿRMINORZ
+CODE_SMELL
+M
+java:S5960"+Remove this assertion from production code.(©áªRMAJORZBUG

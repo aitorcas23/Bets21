@@ -1,0 +1,13 @@
+
+]
+java:S3740"/Provide the parametrized type for this generic.(¦Ê–úÿÿÿÿRMAJORZ
+CODE_SMELL
+]
+java:S3740"/Provide the parametrized type for this generic.(»ËÓùÿÿÿÿRMAJORZ
+CODE_SMELL
+„
+java:S1149"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(¦Ê–úÿÿÿÿRMAJORZ
+CODE_SMELL
+c
+java:S1118":Add a private constructor to hide the implicit public one.(ú²ãÑRMAJORZ
+CODE_SMELL

@@ -1,0 +1,16 @@
+
+y
+java:S1192Š"GDefine a constant instead of duplicating this literal "yellow" 3 times.(º ïØýÿÿÿÿRCRITICALZ
+CODE_SMELL
+t
+java:S1192T"HDefine a constant instead of duplicating this literal "fuchsia" 3 times.(”ÍîàRCRITICALZ
+CODE_SMELL
+x
+java:S1192œ"FDefine a constant instead of duplicating this literal "green" 3 times.(ïÕâžúÿÿÿÿRCRITICALZ
+CODE_SMELL
+s
+java:S11920"GDefine a constant instead of duplicating this literal "purple" 3 times.(»Î¥×RCRITICALZ
+CODE_SMELL
+x
+java:S1192f"GDefine a constant instead of duplicating this literal "maroon" 3 times.(¹ºŒñÿÿÿÿÿRCRITICALZ
+CODE_SMELL

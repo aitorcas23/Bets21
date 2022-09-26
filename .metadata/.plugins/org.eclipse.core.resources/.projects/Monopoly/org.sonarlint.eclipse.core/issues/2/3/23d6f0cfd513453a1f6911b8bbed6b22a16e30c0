@@ -1,0 +1,12 @@
+
+h
+java:S1161":Add the "@Override" annotation above this method signature(•¨ó­úÿÿÿÿRMAJORZ
+CODE_SMELL
+b
+java:S1854"9Remove this useless assignment to local variable "buyer".(˜ƒRMAJORZ
+CODE_SMELL
+S
+java:S1481"*Remove this unused "buyer" local variable.(˜ƒRMINORZ
+CODE_SMELL
+M
+java:S5960"+Remove this assertion from production code.( ½óRMAJORZBUG

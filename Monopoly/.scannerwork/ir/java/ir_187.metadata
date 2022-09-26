@@ -1,0 +1,2 @@
+edu.ncsu.monopoly.gui.MainWindow#movePlayer(III)V
+edu.ncsu.monopoly.gui.MainWindow#queryCell(I)Ledu/ncsu/monopoly/gui/GUICell;

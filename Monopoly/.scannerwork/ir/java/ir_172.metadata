@@ -1,0 +1,2 @@
+edu.ncsu.monopoly.GoToJailCell#playAction()V
+edu.ncsu.monopoly.GameMaster#instance()Ledu/ncsu/monopoly/GameMaster;

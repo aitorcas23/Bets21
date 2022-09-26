@@ -1,0 +1,31 @@
+
+]
+java:S3740"/Provide the parametrized type for this generic.(«õûþøÿÿÿÿRMAJORZ
+CODE_SMELL
+]
+java:S3740"/Provide the parametrized type for this generic.(«õûþøÿÿÿÿRMAJORZ
+CODE_SMELL
+]
+java:S3740:"/Provide the parametrized type for this generic.(ùß”ÜùÿÿÿÿRMAJORZ
+CODE_SMELL
+k
+java:S2259z"DA "NullPointerException" could be thrown; "toCell" is nullable here.(¨Ëº×ýÿÿÿÿRMAJORZBUG
+m
+java:S2259y"FA "NullPointerException" could be thrown; "fromCell" is nullable here.(¼˜•éýÿÿÿÿRMAJORZBUG
+d	java:S125*"<This block of commented-out lines of code should be removed.(áø˜ÀRMAJORZ
+CODE_SMELL
+h
+java:S11614":Add the "@Override" annotation above this method signature(ž†§þýÿÿÿÿRMAJORZ
+CODE_SMELL
+U
+java:S1874_",Remove this use of "show"; it is deprecated.(ï›²«RMINORZ
+CODE_SMELL
+V
+java:S1874€",Remove this use of "show"; it is deprecated.(ï›²«RMINORZ
+CODE_SMELL
+V
+java:S1874†",Remove this use of "show"; it is deprecated.(ï›²«RMINORZ
+CODE_SMELL
+V
+java:S1874Ä",Remove this use of "show"; it is deprecated.(ï›²«RMINORZ
+CODE_SMELL

@@ -1,0 +1,3 @@
+edu.ncsu.monopoly.MockGUI#openTradeDialog()Ledu/ncsu/monopoly/TradeDialog;
+edu.ncsu.monopoly.MockTradeDialog#instance-init#
+edu.ncsu.monopoly.MockTradeDialog#<init>()V

@@ -1,0 +1,32 @@
+
+]
+java:S3740"/Provide the parametrized type for this generic.(…§ÚÅûÿÿÿÿRMAJORZ
+CODE_SMELL
+]
+java:S3740"/Provide the parametrized type for this generic.(…§ÚÅûÿÿÿÿRMAJORZ
+CODE_SMELL
+^
+java:S3740°"/Provide the parametrized type for this generic.(Ê¦–üýÿÿÿÿRMAJORZ
+CODE_SMELL
+X
+java:S3740±"/Provide the parametrized type for this generic.(¢ù¥8RMAJORZ
+CODE_SMELL
+X
+java:S3740±"/Provide the parametrized type for this generic.(¢ù¥8RMAJORZ
+CODE_SMELL
+Y
+java:S3740²"/Provide the parametrized type for this generic.(§°ýãRMAJORZ
+CODE_SMELL
+Ÿ
+java:S1319°"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(Ê¦–üýÿÿÿÿRMINORZ
+CODE_SMELL
+•
+java:S4144¹"fUpdate this method so that its implementation is not identical to "getCurrentPlayerIndex" on line 144.(åëÎýúÿÿÿÿRMAJORZ
+CODE_SMELL
+ˆ
+java:S1149d"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(‚´Ó÷RMAJORZ
+CODE_SMELL
+n
+java:S1124
+"EReorder the modifiers to comply with the Java Language Specification.(¡ñèãRMINORZ
+CODE_SMELL

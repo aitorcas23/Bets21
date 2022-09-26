@@ -1,0 +1,9 @@
+
+z
+java:S1192"IDefine a constant instead of duplicating this literal "TempCell" 3 times.(­ŒÄ·ùÿÿÿÿRCRITICALZ
+CODE_SMELL
+h
+java:S1161":Add the "@Override" annotation above this method signature(ø’¸ŠýÿÿÿÿRMAJORZ
+CODE_SMELL
+M
+java:S5960"+Remove this assertion from production code.(£âúžRMAJORZBUG
