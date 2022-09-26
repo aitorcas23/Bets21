@@ -1,2 +1,0 @@
-edu.ncsu.monopoly.GameBoard#getPropertyNumberForColor(Ljava/lang/String;)I
-java.lang.Integer#intValue()I

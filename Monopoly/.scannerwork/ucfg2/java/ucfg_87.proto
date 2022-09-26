@@ -1,48 +1,0 @@
-
-Gedu.ncsu.monopoly.Player#getPropertyNumberForColor(Ljava/lang/String;)Ij
-^C:/Users/aitor/Desktop/Clase/3/3-1/SI2/WorkspaceSI2/Monopoly/src/edu/ncsu/monopoly/Player.javaã ã(&"3*¨
-2j
-^C:/Users/aitor/Desktop/Clase/3/3-1/SI2/WorkspaceSI2/Monopoly/src/edu/ncsu/monopoly/Player.javaé
- é(ƒ¡
-j
-^C:/Users/aitor/Desktop/Clase/3/3-1/SI2/WorkspaceSI2/Monopoly/src/edu/ncsu/monopoly/Player.javaé
- é(	
-%2int"java.lang.Integer#intValue()I*
-
-numberjava.lang.Integer2
-intValue()"t
-j
-^C:/Users/aitor/Desktop/Clase/3/3-1/SI2/WorkspaceSI2/Monopoly/src/edu/ncsu/monopoly/Player.javaé é(
-""*µ
-3j
-^C:/Users/aitor/Desktop/Clase/3/3-1/SI2/WorkspaceSI2/Monopoly/src/edu/ncsu/monopoly/Player.javaå å('ø
-º
-j
-^C:/Users/aitor/Desktop/Clase/3/3-1/SI2/WorkspaceSI2/Monopoly/src/edu/ncsu/monopoly/Player.javaå å('
-%0java.util.Hashtable"__id*-*+
-edu.ncsu.monopoly.Player"
-colorGroups 
-«
-j
-^C:/Users/aitor/Desktop/Clase/3/3-1/SI2/WorkspaceSI2/Monopoly/src/edu/ncsu/monopoly/Player.javaå å(1
-%1java.lang.Object"__mapGet*
-
-%0java.util.Hashtable*
-
-namejava.lang.String¨
-©
-j
-^C:/Users/aitor/Desktop/Clase/3/3-1/SI2/WorkspaceSI2/Monopoly/src/edu/ncsu/monopoly/Player.javaå å(2
-numberjava.lang.Integer"__id*
-
-%1java.lang.Object*
-2
-1*Â
-1j
-^C:/Users/aitor/Desktop/Clase/3/3-1/SI2/WorkspaceSI2/Monopoly/src/edu/ncsu/monopoly/Player.javaê	 ê(
-"t
-j
-^C:/Users/aitor/Desktop/Clase/3/3-1/SI2/WorkspaceSI2/Monopoly/src/edu/ncsu/monopoly/Player.javaê ê(
-"":
-namejava.lang.StringB
-edu.ncsu.monopoly.Player

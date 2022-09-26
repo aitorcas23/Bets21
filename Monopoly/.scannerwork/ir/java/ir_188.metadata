@@ -1,3 +1,0 @@
-edu.ncsu.monopoly.gui.MainWindow#openRespondDialog(Ledu/ncsu/monopoly/TradeDeal;)Ledu/ncsu/monopoly/RespondDialog;
-edu.ncsu.monopoly.gui.GUIRespondDialog#<init>()V
-edu.ncsu.monopoly.gui.GUIRespondDialog#instance-init#

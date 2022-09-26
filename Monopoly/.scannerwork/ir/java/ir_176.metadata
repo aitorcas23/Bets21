@@ -1,4 +1,0 @@
-edu.ncsu.monopoly.gui.MainWindow#<init>()V
-javax.swing.border.LineBorder#instance-init#
-java.awt.Toolkit#getDefaultToolkit()Ljava/awt/Toolkit;
-javax.swing.border.LineBorder#<init>(Ljava/awt/Color;)V

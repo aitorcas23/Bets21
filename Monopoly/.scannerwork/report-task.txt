@@ -1,7 +1,0 @@
-organization=aitorcas
-projectKey=monopoly4
-serverUrl=https://sonarcloud.io
-serverVersion=8.0.0.31920
-dashboardUrl=https://sonarcloud.io/dashboard?id=monopoly4
-ceTaskId=AYM7FVpZx0kLR454vb2P
-ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AYM7FVpZx0kLR454vb2P

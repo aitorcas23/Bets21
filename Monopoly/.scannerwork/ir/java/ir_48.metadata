@@ -1,9 +1,0 @@
-edu.ncsu.monopoly.gui.TestDiceRollDialog#<init>(Ljava/awt/Frame;)V
-javax.swing.JLabel#<init>(Ljava/lang/String;)V
-javax.swing.JTextField#instance-init#
-java.awt.GridLayout#<init>(II)V
-javax.swing.JTextField#<init>(I)V
-javax.swing.JButton#<init>(Ljava/lang/String;)V
-javax.swing.JLabel#instance-init#
-java.awt.GridLayout#instance-init#
-javax.swing.JButton#instance-init#

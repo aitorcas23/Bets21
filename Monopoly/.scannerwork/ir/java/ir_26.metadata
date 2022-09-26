@@ -1,6 +1,0 @@
-edu.ncsu.monopoly.CellInfoFormatterTest#testPropertyCellText()V
-edu.ncsu.monopoly.PropertyCell#instance-init#
-edu.ncsu.monopoly.gui.InfoFormatter#cellInfo(Ledu/ncsu/monopoly/Cell;)Ljava/lang/String;
-edu.ncsu.monopoly.Player#<init>()V
-edu.ncsu.monopoly.PropertyCell#<init>()V
-edu.ncsu.monopoly.Player#instance-init#

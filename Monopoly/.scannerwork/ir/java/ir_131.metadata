@@ -1,5 +1,0 @@
-edu.ncsu.monopoly.gui.BuyHouseDialog#buildNumberComboBox()Ljavax/swing/JComboBox;
-javax.swing.JComboBox#<init>([Ljava/lang/Object;)V
-java.lang.Integer#instance-init#
-javax.swing.JComboBox#instance-init#
-java.lang.Integer#<init>(I)V

@@ -1,4 +1,0 @@
-edu.ncsu.monopoly.gui.GameBoardUtil#getNorthCells(Ledu/ncsu/monopoly/GameBoard;)Ljava/util/List;
-java.util.ArrayList#<init>()V
-edu.ncsu.monopoly.gui.GameBoardUtil#calculateDimension(I)Ljava/awt/Dimension;
-java.util.ArrayList#instance-init#

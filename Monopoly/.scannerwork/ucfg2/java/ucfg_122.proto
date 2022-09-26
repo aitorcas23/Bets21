@@ -1,26 +1,0 @@
-
-)edu.ncsu.monopoly.RailRoadCell#getRent()In
-dC:/Users/aitor/Desktop/Clase/3/3-1/SI2/WorkspaceSI2/Monopoly/src/edu/ncsu/monopoly/RailRoadCell.java ("1*Ð
-1n
-dC:/Users/aitor/Desktop/Clase/3/3-1/SI2/WorkspaceSI2/Monopoly/src/edu/ncsu/monopoly/RailRoadCell.java	 (È
-Å
-n
-dC:/Users/aitor/Desktop/Clase/3/3-1/SI2/WorkspaceSI2/Monopoly/src/edu/ncsu/monopoly/RailRoadCell.java2 (7
-%0edu.ncsu.monopoly.Player"__id*-*+ 
-edu.ncsu.monopoly.RailRoadCell"
-ownerÖÓ
-n
-dC:/Users/aitor/Desktop/Clase/3/3-1/SI2/WorkspaceSI2/Monopoly/src/edu/ncsu/monopoly/RailRoadCell.java2 (D	
-%1int"&edu.ncsu.monopoly.Player#numberOfRR()I* 
-
-%0edu.ncsu.monopoly.Player2numberOfRR()¼
-¹
-n
-dC:/Users/aitor/Desktop/Clase/3/3-1/SI2/WorkspaceSI2/Monopoly/src/edu/ncsu/monopoly/RailRoadCell.java& (I
-%2double"java.lang.Math#pow(DD)D*"
-java.lang.Math*2*
-"""x
-n
-dC:/Users/aitor/Desktop/Clase/3/3-1/SI2/WorkspaceSI2/Monopoly/src/edu/ncsu/monopoly/RailRoadCell.java (J
-""B" 
-edu.ncsu.monopoly.RailRoadCell

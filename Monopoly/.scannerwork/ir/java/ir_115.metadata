@@ -1,4 +1,0 @@
-edu.ncsu.monopoly.Player#purchase()V
-edu.ncsu.monopoly.Player#purchaseUtility(Ledu/ncsu/monopoly/UtilityCell;)V
-edu.ncsu.monopoly.Player#purchaseRailRoad(Ledu/ncsu/monopoly/RailRoadCell;)V
-edu.ncsu.monopoly.Player#purchaseProperty(Ledu/ncsu/monopoly/PropertyCell;)V

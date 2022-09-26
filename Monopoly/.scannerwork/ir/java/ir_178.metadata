@@ -1,8 +1,0 @@
-edu.ncsu.monopoly.gui.MainWindow#buildPlayerPanels()V
-java.awt.GridLayout#<init>(II)V
-edu.ncsu.monopoly.gui.PlayerPanel#<init>(Ledu/ncsu/monopoly/Player;)V
-edu.ncsu.monopoly.gui.PlayerPanel#instance-init#
-javax.swing.JPanel#<init>()V
-java.awt.GridLayout#instance-init#
-javax.swing.JPanel#instance-init#
-edu.ncsu.monopoly.GameMaster#instance()Ledu/ncsu/monopoly/GameMaster;

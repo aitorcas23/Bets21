@@ -1,2 +1,0 @@
-edu.ncsu.monopoly.Player#purchaseHouse(Ljava/lang/String;I)V
-edu.ncsu.monopoly.GameMaster#instance()Ledu/ncsu/monopoly/GameMaster;

@@ -1,3 +1,0 @@
-edu.ncsu.monopoly.MockGUI#openRespondDialog(Ledu/ncsu/monopoly/TradeDeal;)Ledu/ncsu/monopoly/RespondDialog;
-edu.ncsu.monopoly.MockRespondDialog#<init>(Ledu/ncsu/monopoly/TradeDeal;)V
-edu.ncsu.monopoly.MockRespondDialog#instance-init#

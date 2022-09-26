@@ -1,8 +1,0 @@
-edu.ncsu.monopoly.MovePlayerCardTest#setUp()V
-edu.ncsu.monopoly.MockGUI#<init>()V
-edu.ncsu.monopoly.GameBoardCCMovePlayer#<init>()V
-edu.ncsu.monopoly.GameBoardCCMovePlayer#instance-init#
-edu.ncsu.monopoly.MockGUI#instance-init#
-edu.ncsu.monopoly.MovePlayerCard#<init>(Ljava/lang/String;I)V
-edu.ncsu.monopoly.MovePlayerCard#instance-init#
-edu.ncsu.monopoly.GameMaster#instance()Ledu/ncsu/monopoly/GameMaster;

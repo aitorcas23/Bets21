@@ -1,3 +1,0 @@
-edu.ncsu.monopoly.gui.GUICell#addPlayer(I)V
-java.lang.String#substring(II)Ljava/lang/String;
-edu.ncsu.monopoly.GameMaster#instance()Ledu/ncsu/monopoly/GameMaster;

@@ -1,2 +1,0 @@
-edu.ncsu.monopoly.GameBoard#getPropertiesInMonopoly(Ljava/lang/String;)[Ledu/ncsu/monopoly/PropertyCell;
-java.lang.String#equals(Ljava/lang/Object;)Z

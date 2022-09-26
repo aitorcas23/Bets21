@@ -1,2 +1,0 @@
-edu.ncsu.monopoly.GameBoard#queryCell(Ljava/lang/String;)Ledu/ncsu/monopoly/Cell;
-java.lang.String#equals(Ljava/lang/Object;)Z
